@@ -35,3 +35,12 @@ removes or deletes a file
 
 ## rmdir < directory >
 removes or deletes a directory
+
+## git add .
+The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit .
+
+## git commit -m
+Saves/commits with notes in quotations
+
+## git push
+Shows up in repository
