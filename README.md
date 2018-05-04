@@ -50,3 +50,16 @@ to pull the full repository, this is how you start and should only do once
 
 ## git status
 Diagnostics, shows where you are currently at
+
+## cp < targetfile > < destination file >
+Copies a file from target to destination
+
+## mv < targetfile > < destination file >
+Moves a file from target to destination
+
+## Special directories:
+
+~/ - User directory 
+../ - One directory up (parent directory)
+./ - Current directory
+/ - root directory (C drive)
