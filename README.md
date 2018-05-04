@@ -60,6 +60,9 @@ Moves a file from target to destination
 ## Special directories:
 
 ~/ - User directory 
+
 ../ - One directory up (parent directory)
+
 ./ - Current directory
+
 / - root directory (C drive)
