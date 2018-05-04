@@ -44,3 +44,9 @@ Saves/commits with notes in quotations
 
 ## git push
 Shows up in repository
+
+## git clone
+to pull the full repository, this is how you start and should only do once
+
+## git status
+Diagnostics, shows where you are currently at
